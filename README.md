@@ -37,3 +37,12 @@ No installation required - runs directly in the browser:
 ## API Reference
 
 The application uses the free public API from:
+https://jacintodesign.github.io/quotes-api/data/quotes.json
+
+Sample quote object:
+```json
+{
+  "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+  "author": "Nelson Mandela"
+}
+
