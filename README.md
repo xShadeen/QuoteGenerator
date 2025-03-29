@@ -4,7 +4,7 @@
 
 A web application that fetches inspirational quotes from an API and displays random quotes with their authors. Includes functionality to tweet the current quote.
 
-## Features
+## Features ✨
 
 - Fetches quotes from [Quotes API](https://jacintodesign.github.io/quotes-api/data/quotes.json)
 - Displays random quotes with author attribution
@@ -17,24 +17,29 @@ A web application that fetches inspirational quotes from an API and displays ran
 - Loading spinner during API fetch
 - Smart quote length detection (applies different styling for long quotes)
 
-## Technologies Used
+## Technologies Used 🛠️
 
-- HTML5
-- CSS3 (with Flexbox)
-- JavaScript (ES6+)
-- Fetch API for asynchronous data loading
-- Twitter Web Intent API
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Fetch API](https://img.shields.io/badge/-Fetch_API-FF6B6B?logo=mdnwebdocs&logoColor=white)
+- ![Twitter API](https://img.shields.io/badge/-Twitter_Web_Intent-1DA1F2?logo=twitter&logoColor=white)
 
-## Installation & Usage
+## Installation 💻
 
-No installation required - runs directly in the browser:
+1. Clone the repository:
+```bash
+git clone https://github.com/xShadeen/QuoteGenerator.git
+cd QuoteGenerator
+```
+2. Open index.html in your browser
+   
+## Usage 🖱️
 
-1. Clone this repository or download the files
-2. Open `index.html` in any modern browser
-3. Click "New Quote" button to get random quotes
-4. Click Twitter icon to share the current quote
+- Click "New Quote" button to get random quotes
+- Click Twitter icon to share the current quote
 
-## API Reference
+## API Documentation ℹ️
 
 The application uses the free public API from:
 https://jacintodesign.github.io/quotes-api/data/quotes.json
