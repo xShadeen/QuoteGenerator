@@ -1,6 +1,6 @@
 # QuoteGenerator
 
-![QuoteGenerator Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![QuoteGenerator Screenshot](./screenshot.png)
 
 A web application that fetches inspirational quotes from an API and displays random quotes with their authors. Includes functionality to tweet the current quote.
 
